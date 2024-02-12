@@ -1,2 +1,1 @@
-# NLW-Expert-Notes
- NLW-Expert-Notes-Rocketseat
+# Projeto NLW
